@@ -4,7 +4,7 @@ Point cloud video streaming is promising for immersive media applications, which
 
 ## News
 
-- 2025.11.21 The paper was accpeted by IEEE Transactions on Image Processing. (Junteng Zhang, Tong Chen, Dandan Ding, and Zhan Ma, "Neural Compression System for Point Cloud Video Streaming")
+- 2025.11.21 The paper was accpeted by IEEE Transactions on Image Processing. (Junteng Zhang, Tong Chen, Dandan Ding, and Zhan Ma, "Neural Compression System for Point Cloud Video Streaming"， Link: https://box.nju.edu.cn/f/b61b954d4ca34c85969f/)
 
 ## Requirments
 
